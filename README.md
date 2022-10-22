@@ -28,3 +28,6 @@ I am a Full Stack Developer  from Russia.
 ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 📫How to reach me: Linkedin Badge
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
