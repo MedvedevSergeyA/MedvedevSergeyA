@@ -19,7 +19,7 @@ Hi there 👋
 
 
 About Me :
-I am a Full Stack Developer  from Russia.
+I'm junior front-end developer from Russia. 
 
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
